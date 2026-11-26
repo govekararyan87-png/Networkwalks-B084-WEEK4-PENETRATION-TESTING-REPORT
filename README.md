@@ -1,7 +1,7 @@
 # 🏥 Mediroza General Hospital – Web Infrastructure Security Assessment
 
 ![Security Assessment](https://img.shields.io/badge/Project-Penetration%20Testing-blue)
-![Batch](https://img.shields.io/badge/Batch-B082-orange)
+![Batch](https://img.shields.io/badge/Batch-B084-orange)
 ![Week](https://img.shields.io/badge/Week-04-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Classification](https://img.shields.io/badge/Classification-Confidential-red)
